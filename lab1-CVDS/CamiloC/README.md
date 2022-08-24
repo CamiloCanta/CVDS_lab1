@@ -27,3 +27,16 @@ Top juegos favoritos
 ![](https://media.vandal.net/i/620x348/11-2018/2018111410522559_1.jpg)
 
 [Trailer del juego para que se emocionen](https://www.youtube.com/watch?v=df_z1u2pHYA&t=13s&ab_channel=RockstarGamesEspa%C3%B1a)
+
+Mi lenguaje favorito es el java
+=
+
+Haremos un print basiquito de java para recordarle al grupo como se hace
+
+```
+public class HolaMundo {
+   public static void main(String[] args) {
+     System.out.println("Hola mundo!");
+   }
+}
+ ```
