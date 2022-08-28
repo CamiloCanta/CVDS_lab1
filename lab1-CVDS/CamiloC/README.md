@@ -41,6 +41,11 @@ public class HolaMundo {
 }
  ```
 
-Soluciones de Learn Git Branching
+Soluciones de Learn Git Branching 
 =
+principal
 ![image](https://user-images.githubusercontent.com/108955358/187049138-78bf6c83-2734-4e87-89b5-2701f521b44a.png)
+remota
+![image](https://user-images.githubusercontent.com/108955358/187052934-080c8e75-52c3-4922-8675-01a092531647.png)
+
+
