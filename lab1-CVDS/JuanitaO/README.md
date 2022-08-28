@@ -49,4 +49,12 @@ public class secondClass{
 }
 
 ~~~
+
+# GIT BRANCHING
+### Main
+![2](https://user-images.githubusercontent.com/77862004/187055086-52af32c0-6267-4ad8-8645-0e20e6318e1b.jpeg)
+### Remote
+![1](https://user-images.githubusercontent.com/77862004/187055061-c1acdedd-4aac-42d9-8484-cefff7f961ac.jpeg)
+
+
 #### Gracias, por su atencion!
